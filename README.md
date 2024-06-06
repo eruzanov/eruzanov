@@ -1,6 +1,6 @@
-## Hi there 👋
+Hi there 👋, I'm a software engineer. I prefer front-end and devops
 
-I'm a software engineer. I prefer front-end and devops
+🌱 My stack is with @reactjs, @nextjs, @typescript, @nodejs
 
 <!--
 **eruzanov/eruzanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
